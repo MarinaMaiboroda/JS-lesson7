@@ -406,7 +406,7 @@ a, button{
 .first-slide {
 	position: relative;
 	min-height: 100vh;
-	background: #f9f8fb url("../img/Slide1-bg.jpg") no-repeat center center; 
+	background: #f9f8fb url("../Img/Slide1-bg.jpg") no-repeat center center; 
 	background-size: cover;
 }
 
@@ -597,7 +597,7 @@ a, button{
 
 /* Slide-Subscribe */
 .slide-subscribe {
-	background: #fff url("../img/Subscribe-bg.png") no-repeat center center; 
+	background: #fff url("../Img/Subscribe-bg.png") no-repeat center center; 
 	background-size: cover;
 	padding: 141px 0 163px;
 }
